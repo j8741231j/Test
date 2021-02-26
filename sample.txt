@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 set CLASSPATH=.;D:\SQL指令筆記\JDBC\mysql-connector-java-5.1.49\mysql-connector-java-5.1.49-bin.jar;%CLASSPATH%
+=======
+test
+>>>>>>> eb1a7ce057ea06f9848be00e86e12a243bf0a3ea
